@@ -20,8 +20,8 @@ The objective of this web application is to manage different events. This web ap
 #
 
 ## Github:
-- [Github repository Backend](https://github.com/M-Ahmed0/EventManager-Backend)
-- [Github repository Frontend](https://github.com/M-Ahmed0/EventManager-Frontend)
+- [Github repository Backend](https://github.com/M-Ahmed0/Event-Manager-Backend)
+- [Github repository Frontend](https://github.com/M-Ahmed0/Event-Manager-Frontend)
 
 ## Sources:
 [GitHub - Mark de Haan & Wim Wiltenburg](https://github.com/ahrnuld/restapi-complete)
